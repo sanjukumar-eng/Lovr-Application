@@ -1,0 +1,39 @@
+step 1:
+	create folder "Pycharm" in drive e
+	create folder "PycharmProjects" in folder Pycharm
+step 2:
+	install pycharm community software in drive E folder "Pycharm"
+step 3:
+	in Pycharmprojects folder paste File "Tinder"--->Given to you by me
+step 4:
+	install xampp control panel software
+	open it and start apache and mysql
+step 5:
+	open browser and go to "http://127.0.0.1/dashboard/"
+	in header menu go to phpmyadmin
+	in left side click on "new"
+	create database "tinder"
+	in tinder create table users with 9 columns
+ 	user_id [int(8), primary key, unique key, auto increment], name [varchar(255)], email [varchar(255), unique key], password [varchar(255)], age [int(8)], gender [varchar(255)], city [varchar(255)], dp [text], intro [text]
+	in tinder create table proposals with 3 columns
+	proposals_id [int(8), primary key, unique key, auto increment], romeo [int(8)], juliet [int(8)]
+step 6:
+	open pycharm
+	go to file and open
+	e drive then pycharm then pycharmproject then tinder and press ok
+step 7:
+	go to file then setting
+	then in project: Tinder
+	go to python interpreter
+	and check folling library are there or not:-
+		Pillow, mysql-connector, pip, setuptools......
+	if any one of them are not there then install it using plus icon
+step 8:
+	run main window
+	if any error contact me----
+	if run successfully then click on signup button and create accounts for refrence....
+	then sign in
+
+
+enjoy it and plz give feedback to my effort.
+Thank you!!!!!!
